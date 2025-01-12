@@ -1,2 +1,2 @@
-console.log('Nadissl');
-console.log('dulnidu4');
+console.log('Nadil');
+console.log('dulnidu');
